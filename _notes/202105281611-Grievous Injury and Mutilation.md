@@ -1,7 +1,7 @@
 ---
 title: Grievous Injury and Mutilation
 state: publish
-tags: homebrew, combat
+tags: [homebrew, combat]
 ---
 A whole adventuring party, save two, lie prone on the battlefield. The barbarian, the only one still battle-ready, is single-handedly holding off a dragon, while the cleric readies his magic.
 

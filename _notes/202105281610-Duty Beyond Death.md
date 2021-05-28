@@ -1,7 +1,7 @@
 ---
 title: Duty Beyond Death
 state: publish
-tags: homebrew, combat
+tags: [homebrew, combat]
 ---
 > Anzu lies helplessly on the floor of the cavern as she watches the Dragon methodically dismantle her party. There is little she can do to affect the situation, and with the damage she has sustained, any hope of clerical intervention is long gone.
 > She struggles futilely against the fading of her vision, but eventually she feels herself leaving the mortal coil.

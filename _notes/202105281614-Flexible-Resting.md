@@ -1,7 +1,7 @@
 ---
 title: Flexible Resting
 state: publish
-tags: homebrew, exploration
+tags: [homebrew, exploration]
 ---
 Completing a long rest in the wilderness is a daunting task in and of itself. A long rest is a 24‑hour period of light activity and high‑quality sleep. Combat and travel both interrupt a long rest. A short rest takes at least half an hour.
 
