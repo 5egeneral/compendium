@@ -816,6 +816,7 @@ hr {
     position: relative; 
     padding-bottom: 5px;
 }
+.tag ~ .tag {margin-left: 0.5em}
 
 .sn-left,
 .mn-left {
