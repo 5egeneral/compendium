@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "ce5a5bf1a037f2db",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eb4edbe8a33ab41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/202105281610-Duty Beyond Death.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3a39aa02d8c30b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1b88e2a7eeaeb0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b604b0721f4b260",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b9d9d01b20c8458",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "070438a61a033aac",
+    "type": "split",
+    "children": [
+      {
+        "id": "880ec048fae66563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a794d40dc6ae5aa1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/202105281610-Duty Beyond Death.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4eb4edbe8a33ab41",
+  "lastOpenFiles": [
+    "_notes/202105281610-Duty Beyond Death.md",
+    "_notes/202105281611-Grievous Injury and Mutilation.md",
+    "_notes/202105281614.md",
+    "_notes/how-markdown-is-rendered.md",
+    "note_template.md",
+    "notes.md",
+    "_notes/Untitled.md",
+    "_notes/202105281611.md",
+    "_notes/Duty Beyond Death.md",
+    "_notes/202105281610.md"
+  ]
+}
