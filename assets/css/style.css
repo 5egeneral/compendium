@@ -632,7 +632,7 @@ hr {
     font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     color: #555;
     font-size: 18px;
-    background-color: #EEE8D5;
+    background-color: transparent;
 }
 
 ::placeholder {
@@ -650,17 +650,17 @@ hr {
     z-index: 1;
 }
   
-.searchbar input[type="text"]:focus {
-    box-shadow: 0 0 8px 0 #A7D0EB;
+.menu .rss {display:none;
 }
   
 .searchbar input[type=text]:hover {
-    background-color: transparent;
+    background-color: #EEE8D5;
 }
   
 .searchbar input[type=text]:active,
 .searchbar input[type=text]:focus {
-    background-color: transparent;
+
+    background-color: #EEE8D5;
     outline: none;
 } 
 
