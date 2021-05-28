@@ -782,8 +782,12 @@ hr {
 }
 
 .content a {
-    color: #93A1A1;
+    color: #002B36;
     text-decoration: none;
+}
+
+.content a[href="javascript:void(0)"] {
+    color: #93A1A1;
 }
 
 .content a:hover {
