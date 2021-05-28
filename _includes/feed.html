@@ -1,8 +1,9 @@
 
 
 {%- if page.permalink == "/" -%}
+     <div class="feed-wrapper">
     {%- for item in site.notes -%}
-        {%- if item.state == 'publish' -%}
+        {%- if item.state == 'publish   ' -%}
         <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
             <a href="{{item.url}}" style="text-decoration: none; color: #555555;">
             {%- if item.status == "Ongoing" or item.status == "ongoing" -%}
@@ -61,6 +62,7 @@
         </div>
         {%- endif -%}
         {%- endfor -%}
+    </div>
 {%- endif -%}
 
 {%- if page.permalink == "/notes" -%}
