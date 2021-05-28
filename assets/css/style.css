@@ -820,6 +820,10 @@ hr {
 .tags li ~ li .tag,
 .feedtags li ~ li {margin-left: 0.5em}
 
+.feedtags {padding-left: 20px; margin-top: 5px;margin-bottom: 5px}
+
+.feedtags li {padding: 0 5px; border-radius: 10px;}
+
 .sn-left,
 .mn-left {
     float: left;
