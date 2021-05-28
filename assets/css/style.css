@@ -1122,7 +1122,10 @@ img[src*='#center'] {
     text-decoration: none;
 }
 
-
+.feed-wrapper {
+    display: flex;
+    flex-direction: column-reverse;
+}
 
 /* context-menu styling */
 .context-menu {
