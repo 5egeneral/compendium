@@ -12,4 +12,4 @@ If you die, you may choose **Duty Beyond Death**. You regain all your hitpoints 
 
 Speak with your Dungeon Master to determine a **short&#8209;term** goal for the spectre of your character. Once that goal has been achieved, or when you are reduced to 0 hit points, your material form disintegrates.
 
-If you choose **Duty Beyond Death** you are unable to be resurrected through conventional means.
+If you choose **Duty Beyond Death** you are unable to be resurrected through conventional means. 

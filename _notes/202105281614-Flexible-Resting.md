@@ -7,7 +7,7 @@ Completing a long rest in the wilderness is a daunting task in and of itself. A 
 
 A character who benefits from a long rest must wait 48 hours before starting a long rest again.
 
-A long rest restores half a character’s remaining hit dice, and all hit points.
+A long rest restores half a character’s remaining hit dice, and all hit points. 
 
 Finishing an 8‑hour rest \[overnight rest\] lets a creature lower her exhaustion level by 1, as well as roll one hit die without expending any resources.
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "_notes/202105281610-Duty Beyond Death.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_notes/202105281610-Duty Beyond Death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "4eb4edbe8a33ab41",
   "lastOpenFiles": [
-    "README.md",
     "_notes/202105281610-Duty Beyond Death.md",
+    "README.md",
     "_notes/202105281611-Grievous Injury and Mutilation.md",
     "_notes/202105281614-Flexible-Resting.md",
     "_notes/202105281614.md",
