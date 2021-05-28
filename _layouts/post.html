@@ -47,7 +47,9 @@
     <div class="container">                    
         <div class = "box">
             {%- include header.html -%}
+            <div class="feed-wrapper">
             {%- include feed.html -%}
+            </div>
 
             {%- if page.content-type == "notes" 
                 or page.content-type == "post" 
