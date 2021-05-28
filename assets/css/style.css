@@ -1039,7 +1039,7 @@ img[src*='#center'] {
 }
 
 .related-group:hover {
-    background-color: #ededed !important;
+    background-color: #FDF6E3 !important;
 }
 
 .related-group a {
@@ -1282,7 +1282,6 @@ width: 30% !important;
 }
 
 .related-group {
-    background-color: #ededed !important;
     margin-left: 10px;
     width: 90% !important;
     height: 100%;
