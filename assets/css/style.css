@@ -669,7 +669,7 @@ hr {
 }
 
 .search_res:hover {
- background-color: #f4f4f4;
+ background-color: #EEE8D5;
 }
 
 .search_res:hover > a {
@@ -1110,7 +1110,7 @@ img[src*='#center'] {
 
 .context-menu-res li:hover {
     color: #555;
-    background-color: #f4f4f4;
+    background-color: #EEE8D5;
 }
 
 .context-menu-res li:hover >  .context-menu-res__link {
@@ -1168,7 +1168,7 @@ img[src*='#center'] {
 
 .context-menu__link:hover {
   color: #555;
-  background-color: #f4f4f4;
+  background-color: #EEE8D5;
 }
 
 .popup {
