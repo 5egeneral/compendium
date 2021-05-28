@@ -816,7 +816,9 @@ hr {
     position: relative; 
     padding-bottom: 5px;
 }
-.tags li ~ li .tag {margin-left: 0.5em}
+
+.tags li ~ li .tag,
+.feedtags li ~ li {margin-left: 0.5em}
 
 .sn-left,
 .mn-left {
