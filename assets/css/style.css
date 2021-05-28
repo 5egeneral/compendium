@@ -207,11 +207,16 @@ table {
     border-radius: 5px;
     border-collapse: collapse;
 }
+
+table span{
+    font-size: 16px;
+}
+
 th, td {
     color: #555;
     padding: 8px;
     text-align: left;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 td {
