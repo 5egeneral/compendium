@@ -14,7 +14,7 @@ Once per round, you can attempt to improvise a manoeuvre which you perform as pa
 
 [[Menacing Attack]]
 
-[[Pushing Attack]]
+![[Pushing Attack]]
 
 [[Trip Attack]]
 
