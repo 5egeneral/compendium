@@ -18,6 +18,7 @@ content-type: eg
 </style>
 
 <main>
+    <div class="tag-overview-wrapper">
     {% assign tags =  site.notes | map: 'tags' | join: ' '  | split: ' ' | uniq %}
     {% for tag in tags %}
         <div class="tag-overview" id="{{ tag }}">
@@ -29,6 +30,7 @@ content-type: eg
         {%- endfor -%}
         </div>
     {%- endfor -%}
+    </div>
     <br/>
     <br/>
 </main>

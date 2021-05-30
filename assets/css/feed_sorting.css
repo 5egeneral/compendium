@@ -2,3 +2,20 @@
     display: flex;
     flex-direction: column-reverse;
 }
+
+.tag-overview-wrapper {
+	display: flex;
+	flex-direction: column;	
+}
+
+.tag-overview#homebrew {
+    order: 1;
+}
+
+[id="copyright-notice"] > a {
+    display: inline;
+}
+
+.tag-overview h3 {
+    margin-bottom: 4px;
+}
