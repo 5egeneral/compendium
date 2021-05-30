@@ -9,3 +9,5 @@ Make sure to paste the [metadata template](metadatatemplate.md) at the top. If y
 If you prefer learning visually, you can have a look at the demonstration in the link below.
 
 [![](https://i.imgur.com/EGkFPK3.jpg)](https://i.imgur.com/G72uxwW.mp4)
+
+If that seems too daunting, you can instead open an issue and link to a pastebin with your document in markdown formatting.
