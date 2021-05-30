@@ -12,7 +12,7 @@
     order: 1;
 }
 
-[id="copyright-notice"] > a {
+#copyright p[id="copyright-notice"] > a {
     display: inline;
 }
 
