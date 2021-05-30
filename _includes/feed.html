@@ -1,6 +1,7 @@
 
 
 {%- if page.permalink == "/" -%}
+    <div class="feed-wrapper">
     {%- for item in site.notes -%}
         {%- if item.state == 'publish' -%}
         <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
@@ -69,9 +70,11 @@
         </div>
         {%- endif -%}
         {%- endfor -%}
+    </div>
 {%- endif -%}
 
 {%- if page.permalink == "/notes" -%}
+<div class="feed-wrapper">
 {%- for item in site.notes -%}
 <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
     <a href="{{item.url}}" style="text-decoration: none; color: #333333;">
@@ -80,5 +83,6 @@
     </a>
 </div>
 {%- endfor -%}
+</div>
 {%- endif -%}
 
