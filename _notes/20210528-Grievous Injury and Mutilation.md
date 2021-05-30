@@ -3,13 +3,10 @@ title: Grievous Injury and Mutilation
 state: publish
 tags: [homebrew, combat]
 ---
-A whole adventuring party, save two, lie prone on the battlefield. The barbarian, the only one still battle-ready, is single-handedly holding off a dragon, while the cleric readies his magic.
-
-The barbarian's efforts seem to be for naught as the dragon catches her with its tail, seconds before the cleric has finished his ritual. With a herculean effort she rises again, the stump where her hand once was gushing blood, but her fighting spirit is undiminished. She holds off the dragon's assaults long enough for the the cleric to finish her ritual, bathing the downed party members in white light.
-
-The newly rejuvenated party manages to take down the dragon, but the mood is subdued, to the barbarian's confusion. A hand is a small price to pay for the survival of her friends, and she'll learn to live without it.
-
-Maybe they can tie an axe to her stump?
+> A whole adventuring party, save two, lie prone on the battlefield. The barbarian, the only one still battle-ready, is single-handedly holding off a dragon, while the cleric readies his magic.  
+> The barbarian's efforts seem to be for naught as the dragon catches her with its tail, seconds before the cleric has finished his ritual. With a herculean effort she rises again, the stump where her hand once was gushing blood, but her fighting spirit is undiminished. She holds off the dragon's assaults long enough for the the cleric to finish her ritual, bathing the downed party members in white light.  
+> The newly rejuvenated party manages to take down the dragon, but the mood is subdued, to the barbarian's confusion. A hand is a small price to pay for the survival of her friends, and she'll learn to live without it.  
+> <br>Maybe they can tie an axe to her stump?
 
 ### Choosing to take a grievous injury
 Once per level, when a character is reduced to zero hit points, the player can choose to take a Grievous Injury instead of making death saving throws, returning to 1 hit point and rolling on the Grievous Injury table of their choice.
