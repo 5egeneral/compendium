@@ -20,12 +20,14 @@ content-type: eg
 <main>
     {% assign tags =  site.notes | map: 'tags' | join: ' '  | split: ' ' | uniq %}
     {% for tag in tags %}
-        <h3 id="{{ tag }}">{{ tag | captalize }}</h3>
+        <div class="tag-overview" id="{{ tag }}">
+        <h3 id="{{ tag }}">{{ tag | capitalize }}</h3>
         {%- for note in site.notes -%}
             {%- if note.tags contains tag -%}
                 <li style="padding-bottom: 0.6em; list-style: none;"><a href="{{note.url}}">{{ note.title }}</a></li>
             {%- endif -%}
         {%- endfor -%}
+        </div>
     {%- endfor -%}
     <br/>
     <br/>
