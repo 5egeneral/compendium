@@ -2,6 +2,7 @@
 title: Grievous Injury and Mutilation
 state: publish
 tags: [homebrew, combat]
+toc: true
 ---
 > A whole adventuring party, save two, lie prone on the battlefield. The barbarian, the only one still battle-ready, is single-handedly holding off a dragon, while the cleric readies his magic.  
 > The barbarian's efforts seem to be for naught as the dragon catches her with its tail, seconds before the cleric has finished his ritual. With a herculean effort she rises again, the stump where her hand once was gushing blood, but her fighting spirit is undiminished. She holds off the dragon's assaults long enough for the the cleric to finish her ritual, bathing the downed party members in white light.  
@@ -12,7 +13,7 @@ tags: [homebrew, combat]
 Once per level, when a character is reduced to zero hit points, the player can choose to take a Grievous Injury instead of making death saving throws, returning to 1 hit point and rolling on the Grievous Injury table of their choice.
 
 
-##### A. Head Injuries
+#### A. Head Injuries
 
 | d100   | Injury                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------ |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +27,7 @@ Once per level, when a character is reduced to zero hit points, the player can c
 
 
 
-##### B. Upper Body Injuries
+#### B. Upper Body Injuries
 
 | d100   | Injury                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------ |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +40,7 @@ Once per level, when a character is reduced to zero hit points, the player can c
 | 86-100 | **Lingering muscle sprain.** There is a painful twinge that follows every brusque movement you make. You suffer disadvantage on all Dexterity and Strength saving throws and checks and may not add your proficiency bonus to attack rolls. <br> A medic can attempt to help you recover, making a DC 15 medicine check once a day. Your sprain has healed after 3 successful medicine checks.                                                  |
 
 
-##### C. Lower Body Injuries
+#### C. Lower Body Injuries
 
 | d100   | Injury                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------ |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
