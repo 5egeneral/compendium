@@ -23,14 +23,14 @@
 @media screen and (max-width: 1174px){
 
  .box main .section-nav {
-  margin-right:-22%;
+  margin-right:-22.5%;
   width:20%;
  }
 }
 
 @media screen and (max-width: 1500px) {
  main .section-nav {
-  margin-right:-21%;
+  margin-right:-21.5%;
   width:20%;
  }
 }
@@ -42,9 +42,19 @@
  }
 }
 
+.section-nav::before {
+    content: "Contents";
+    font-size: 2em;
+    font-weight: bold;
+}
 
-.toc-entry , a{
+.section-nav,
+.toc-entry a{
     color: #4183c4;
     text-decoration: none;
     line-height: 1.5;
+}
+
+.toc-entry.active > a{
+    color: #555;
 }
