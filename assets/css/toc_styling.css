@@ -11,26 +11,19 @@
     position: relative; 
     padding-bottom: 5px;
     position: sticky;
-    top: 1em;
+    top: 350px;
 }
 .section-nav li {
     padding-left: 0.5em;
     text-indent:-0.5em;
     word-wrap: break-word;
     list-style: none;
-}
-
-@media screen and (max-width: 1174px){
-
- .box main .section-nav {
-  margin-right:-22.5%;
-  width:20%;
- }
+    font-size: 15px
 }
 
 @media screen and (max-width: 1500px) {
  main .section-nav {
-  margin-right:-21.5%;
+  margin-right:-23%;
   width:20%;
  }
 }
@@ -46,11 +39,16 @@
     content: "Contents";
     font-size: 2em;
     font-weight: bold;
+    color: #555;
+     top: -350px;
 }
 
+.section-nav>  * {
+     top: -350px;
+}
 .section-nav,
 .toc-entry a{
-    color: #4183c4;
+    color: #848C8E;
     text-decoration: none;
     line-height: 1.5;
 }
