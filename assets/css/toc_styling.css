@@ -41,10 +41,12 @@
     font-weight: bold;
     color: #555;
      top: -350px;
+     position: relative;
 }
 
 .section-nav>  * {
      top: -350px;
+     position: relative;
 }
 .section-nav,
 .toc-entry a{
