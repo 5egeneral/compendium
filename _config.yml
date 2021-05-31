@@ -35,7 +35,7 @@ collections:
       permalink: /notes/:title
 
 toc:
-  max_level: 3
+  max_level: 6
 
 defaults:
   - scope:
