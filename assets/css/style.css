@@ -10,6 +10,7 @@ layout: stylesheet
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 @import "/assets/css/highlight.css";
 @import "/assets/css/feed_sorting.css";
+@import "/assets/css/toc_styling.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
 html {
@@ -430,20 +431,7 @@ hr {
 
 /* Notes: Note-heading, Note-subheading, Notes-content, Related Notes */
 
-.section-nav {
-    background-color: #FDF6E3;
-    margin: 10px 0;
-    padding: 10px 30px;
-    border: 1px solid #EEE8D5;
-    border-radius: 5px;
-    width: auto;
-}
 
-.toc-entry , a{
-    color: #4183c4;
-    text-decoration: none;
-    line-height: 1.5;
-}
 
 /* Style the collapsible content. Note: hidden by default */
 .toc {
