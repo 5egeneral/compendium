@@ -37,7 +37,7 @@ Because a template can be applied to so many different monsters, there is no lis
 ## List of Templates
 The templates below are listed in alphabetical order.
 
-- [[Creature Template-Abomination\|Abomination]]
+- [[Abomination\|Creature Template-Abomination]]
 - [[Creature Template-Berserk Monster\|Berserk Monster]]
 - [[Creature Template-Bodyguard\|Bodyguard]]
 - [[Creature Template-Boss Monster\|Boss Monster]]
