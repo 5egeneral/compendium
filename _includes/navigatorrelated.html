@@ -1,0 +1,20 @@
+{%- if page.content-type == "notes" -%}
+<div class="related" id="jekyll-seamless-relatedposts">
+    <h4 class="medium-small">Related Posts </h4>
+    <div class="related-wrapper">
+  {% if page.previous.url %}
+     <div class="related-group"><a href="{{page.previous.url}}">
+            <p class="related-title">{{page.previous.title}}</p>
+            <p class="related-excerpt">{{ page.previous.content | markdownify | strip_html | truncate: 140 }}</p>
+          </a></div>
+  {% endif %}
+  {% if page.next.url %}
+     <div class="related-group"><a href="{{page.next.url}}">
+            <p class="related-title">{{page.next.title}}</p>
+            <p class="related-excerpt">{{ page.next.content | markdownify | strip_html | truncate: 140 }}</p>
+          </a></div>
+  {% endif %}
+    </div>
+      <br/>
+</div>  
+{%- endif -%} 

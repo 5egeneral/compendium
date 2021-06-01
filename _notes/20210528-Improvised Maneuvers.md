@@ -1,5 +1,5 @@
 ---
-title: Improvised manoeuvres
+title: Improvised Manoeuvres
 state: publish
 tags: [homebrew, combat]
 ---
@@ -21,7 +21,7 @@ Once per round, you can attempt to improvise a manoeuvre which you perform as pa
 
 ## **Appropriate Tools**
 
-Certain weapons are more suited to improvised manoeuvres, letting you add your choice of your Strength or Dexterity modifier to your Improvised Manoeuvre save DC. In addition, depending on your weapon, you may attempt a manoeuvre not on the list above.
+Certain weapons are more suited to improvised manoeuvres, letting you add your choice of your Strength or Dexterity modifier to the save DC of one corresponding manoeuvre. In addition, depending on your weapon, you may attempt a manoeuvre which isn't in the list above.
 
 | Weapon    | Maneuver               |
 | --------- | ---------------------- |
