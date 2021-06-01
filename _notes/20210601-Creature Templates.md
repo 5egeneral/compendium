@@ -29,7 +29,7 @@ A creature template can change any of a monster's statistics, but there are cert
 ### Challenge Rating
 Because a template can be applied to so many different monsters, there is no listed value for how it will affect a monster's Challenge Rating; once you apply one of these templates, recalculate the monster's Challenge Rating. For guidance on this matter, see the "Monster Features Revisited" section earlier in this document.
 
-> ##### Modifying Templates
+> ### Modifying Templates
 > These templates are just a starting point for your monsters. Don't feel the need to constrain yourself to their limitations, or to avoiding using abilities that aren't mentioned in their descriptions.
 > 
 > It's also worth noting that many of these templates simply piece together some of the monster features discussed earlier in this document. For example, the Bodyguard template simply combines my monster version of the Alert feat with pieces of the Polearm Master and Sentinel feats. Thus, you can view these as example applications of the other content in this document, whereas you are free to ignore or deviate from them as you see fit.
