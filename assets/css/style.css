@@ -1439,6 +1439,6 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 .buffer {
-height: 1rem
+height: 1rem;
 background-color: #FCF8EF;
 }
