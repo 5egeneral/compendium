@@ -1,5 +1,5 @@
 ---
-title: Creature Template: Lurk
+title: "Creature Template: Lurk"
 state: note
 tags: [homebrew, monster]
 author: badooga

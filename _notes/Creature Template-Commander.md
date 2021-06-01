@@ -1,5 +1,5 @@
 ---
-title: Creature Template: Commander
+title: "Creature Template: Commander"
 state: note
 tags: [homebrew, monster]
 author: badooga

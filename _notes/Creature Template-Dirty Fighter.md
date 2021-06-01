@@ -1,5 +1,5 @@
 ---
-title: Creature Template: Dirty Fighter
+title: "Creature Template: Dirty Fighter"
 state: note
 tags: [homebrew, monster]
 author: badooga

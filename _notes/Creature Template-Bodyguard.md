@@ -1,5 +1,5 @@
 ---
-title: Creature Template: Bodyguard
+title: "Creature Template: Bodyguard"
 state: note
 tags: [homebrew, monster]
 author: badooga

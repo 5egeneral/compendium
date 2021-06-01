@@ -1,5 +1,5 @@
 ---
-title: Creature Template: Shadow Dweller
+title: "Creature Template: Shadow Dweller"
 state: note
 tags: [homebrew, monster]
 author: badooga
