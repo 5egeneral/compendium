@@ -1,7 +1,6 @@
 ---
 title: "Creature Template: Lurk"
 state: note
-tags: monster
 author: badooga
 ---
 A lurk is a particularly stealthy monster, which is capable of remaining undetected through either mundane skill or magical abilities.

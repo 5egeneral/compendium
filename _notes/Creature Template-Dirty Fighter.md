@@ -1,7 +1,6 @@
 ---
 title: "Creature Template: Dirty Fighter"
 state: note
-tags: monster
 author: badooga
 ---
 Whether out of malice, fear, or a strong desire to succeed, a dirty fighter doesn't play by the rules. They will do whatever it takes to win, including taking the cheapest shots possible and ambushing foes in order to ensure the greatest chance of success.

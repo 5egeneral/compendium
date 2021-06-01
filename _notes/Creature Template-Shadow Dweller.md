@@ -1,7 +1,6 @@
 ---
 title: "Creature Template: Shadow Dweller"
 state: note
-tags: monster
 author: badooga
 ---
 A shadow dweller, also referred to as a shadow touched monster, is a being that has been corrupted by the Shadowfell or some other dark power. This corruption tethers them to the darkness and grants them limited control over negative energy.

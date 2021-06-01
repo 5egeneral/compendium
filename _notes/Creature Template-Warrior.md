@@ -1,7 +1,6 @@
 ---
 title: "Creature Template: Warrior"
 state: note
-tags: monster
 author: badooga
 ---
 A warrior is a monster that uses martial training to enhance their combat capabilities. Only the best warriors can be considered fighters, but even a small amount of training can create a significant gap between a warrior and its peers.

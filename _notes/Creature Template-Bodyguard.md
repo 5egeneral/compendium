@@ -1,7 +1,6 @@
 ---
 title: "Creature Template: Bodyguard"
 state: note
-tags: monster
 author: badooga
 ---
 A bodyguard is some sort of monster used by others used to protect them from physical harm. Some are trained warriors that use their skills for defense. Others use their brute force to attack a threat until they stop moving.

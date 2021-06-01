@@ -1,7 +1,6 @@
 ---
 title: "Creature Template: Boss Monster"
 state: note
-tags: monster
 author: badooga
 ---
 The best way to turn a normal creature into a boss monster is to give it mythic traits and actions. You can use this template if you want an abbreviated process that you can elaborate on later. If you wish to make this monster a solo boss, choose a base creature with a CR that is equal to or slightly less than the average party level.
