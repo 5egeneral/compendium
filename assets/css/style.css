@@ -1437,3 +1437,8 @@ label.margin-toggle:not(.sidenote-number) {
   width:20%
  }
 }
+
+.buffer {
+height: 1rem
+background-color: #FCF8EF;
+}
