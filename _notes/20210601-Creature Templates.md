@@ -27,7 +27,8 @@ A creature template can change any of a monster's statistics, but there are cert
 ***New Features.*** Finally, a template is likely to grant a monster access to new traits and abilities as appropriate. For example, the gnoll template in the DMG gives a monster the Rampage trait, while the kuo-toa template grants a monster the Amphibious, Otherworldly Perception, Slippery, and Sunlight Sensitivity traits.
 
 ### Challenge Rating
-Because a template can be applied to so many different monsters, there is no listed value for how it will affect a monster's Challenge Rating; once you apply one of these templates, recalculate the monster's Challenge Rating. For guidance on this matter, see the "Monster Features Revisited" section earlier in this document.
+Because a template can be applied to so many different monsters, there is no listed value for how it will affect a monster's Challenge Rating; once you apply one of these templates, recalculate the monster's Challenge Rating. For guidance on this matter, see the "Creating a Monster" section in Chapter 9 of the *Dungeon Master's Guide*.
+
 
 > ### Modifying Templates
 > These templates are just a starting point for your monsters. Don't feel the need to constrain yourself to their limitations, or to avoiding using abilities that aren't mentioned in their descriptions.
