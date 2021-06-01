@@ -31,7 +31,7 @@ Because a template can be applied to so many different monsters, there is no lis
 
 > ### Modifying Templates
 > These templates are just a starting point for your monsters. Don't feel the need to constrain yourself to their limitations, or to avoiding using abilities that aren't mentioned in their descriptions.
-> \
+> <br>
 > It's also worth noting that many of these templates simply piece together some of the monster features discussed earlier in this document. For example, the Bodyguard template simply combines my monster version of the Alert feat with pieces of the Polearm Master and Sentinel feats. Thus, you can view these as example applications of the other content in this document, whereas you are free to ignore or deviate from them as you see fit.
 
 ## List of Templates
