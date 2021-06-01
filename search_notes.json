@@ -7,6 +7,7 @@
 
       "title"    : "{{ note.title | strip_html | escape }}",
       "url"      : "{{ note.url }}",
+	  "author"   : "{{ note.author }}",
       "category" : "{{note.categories | join: ', '}}",
       "tags"     : "{{ note.tags | join: ', ' }}",
       "content"  : {{ note.content | strip_html | strip_newline | strip | jsonify }}

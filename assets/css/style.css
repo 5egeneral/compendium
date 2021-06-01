@@ -11,6 +11,7 @@ layout: stylesheet
 @import "/assets/css/highlight.css";
 @import "/assets/css/feed_sorting.css";
 @import "/assets/css/toc_styling.css";
+@import "/assets/css/imagecaption_styling.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
 html {
@@ -1420,8 +1421,8 @@ label.margin-toggle:not(.sidenote-number) {
  }
  .container .sn-left,
  .container .mn-left {
-  margin-left:-42%;
-  width:30%
+  margin-left:-40%;
+  width:25%
  } 
 }
 @media screen and (max-width: 1361px) {
@@ -1432,7 +1433,7 @@ label.margin-toggle:not(.sidenote-number) {
  }
  .sn-left,
  .mn-left {
-  margin-left:-20%;
-  width:10%
+  margin-left:-32%;
+  width:20%
  }
 }
