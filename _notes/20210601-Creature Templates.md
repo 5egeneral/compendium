@@ -1,7 +1,7 @@
 ---
 title: Creature Templates
 state: publish
-tags: [homebrew, monster]
+tags: monster
 author: badooga
 toc: true
 ---

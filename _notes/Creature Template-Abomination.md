@@ -1,7 +1,7 @@
 ---
 title: "Creature Template: Abomination"
 state: note
-tags: [homebrew, monster]
+tags: monster
 author: badooga
 ---
 An abomination is some sort of monster that has been corrupted, diseased, warped, or otherwise changed in some unnatural way. The source of this corruption determines its severity and specific nature.

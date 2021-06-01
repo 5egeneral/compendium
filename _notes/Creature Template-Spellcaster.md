@@ -1,7 +1,7 @@
 ---
 title: "Creature Template: Spellcaster"
 state: note
-tags: [homebrew, monster]
+tags: monster
 author: badooga
 ---
 Any sentient monster is capable of becoming a spellcaster through a variety of means. This template provides a quick way for you to add spellcasting to a monster that doesn't already have it.

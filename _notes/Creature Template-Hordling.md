@@ -1,7 +1,7 @@
 ---
 title: "Creature Template: Hordling"
 state: note
-tags: [homebrew, monster]
+tags: monster
 author: badooga
 ---
 A hordling is a general term used for any monster that works well in groups. While swarms of demons and undead are the most common examples of hordlings in action, the term can also be used to refer to organized soldiers that work well together.

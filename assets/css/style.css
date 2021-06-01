@@ -993,6 +993,8 @@ label.srs-toggle {
     width: 100%;
     min-height: 100px;
     border-radius: 10px;
+    max-height: 800px;
+    overflow-y: auto;
 }
 
 .related h4 {

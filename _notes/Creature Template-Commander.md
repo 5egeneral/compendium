@@ -1,7 +1,7 @@
 ---
 title: "Creature Template: Commander"
 state: note
-tags: [homebrew, monster]
+tags: monster
 author: badooga
 ---
 A commander is a monster that is slightly smarter, wiser, or more charismatic compared to its kin or peers, granting it natural leadership skills that it can use in combat. For more guidelines for creating leader monsters, see my [Warlord Collection](https://www.gmbinder.com/share/-LtrZrYqZl6TBt8gu9lt) homebrew. 
