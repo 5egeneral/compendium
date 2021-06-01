@@ -1,5 +1,5 @@
 ---
-title: Abomination
+title: Creature Template: Abomination
 state: note
 tags: [homebrew, monster]
 author: badooga

@@ -1,5 +1,5 @@
 ---
-title: Hordling
+title: Creature Template: Hordling
 state: note
 tags: [homebrew, monster]
 author: badooga

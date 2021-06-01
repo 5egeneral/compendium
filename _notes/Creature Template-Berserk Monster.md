@@ -1,5 +1,5 @@
 ---
-title: Berserk Monster
+title: Creature Template: Berserk Monster
 state: note
 tags: [homebrew, monster]
 author: badooga

@@ -1,5 +1,5 @@
 ---
-title: Boss Monster
+title: Creature Template: Boss Monster
 state: note
 tags: [homebrew, monster]
 author: badooga

@@ -1,5 +1,5 @@
 ---
-title: Spellcaster
+title: Creature Template: Spellcaster
 state: note
 tags: [homebrew, monster]
 author: badooga

@@ -1,5 +1,5 @@
 ---
-title: Warrior
+title: Creature Template: Warrior
 state: note
 tags: [homebrew, monster]
 author: badooga
