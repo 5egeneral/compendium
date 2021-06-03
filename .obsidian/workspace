@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Trip Attack.md",
+            "file": "_notes/20210601-Creature Templates.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Trip Attack.md",
+                "file": "_notes/20210601-Creature Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8d8fc67a50bdd774",
   "lastOpenFiles": [
+    "_notes/20210601-Creature Templates.md",
+    "_notes/Bait and Switch.md",
+    "_notes/Creature Template-Berserk Monster.md",
+    "_notes/20210528-Improvised Maneuvers.md",
+    "_notes/20210529-Screw Method.md",
+    "_notes/Creature Template-Abomination.md",
+    "readme.md",
     "_notes/Trip Attack.md",
     "_notes/Pushing Attack.md",
-    "_notes/Menacing Attack.md",
-    "_notes/Lunging Attack.md",
-    "_notes/Grappling Strike.md",
-    "_notes/Goading Attack.md",
-    "_notes/Distracting Strike.md",
-    "_notes/Disarming Attack.md",
-    "_notes/Bait and Switch.md",
-    "_notes/20210529-Screw Method.md"
+    "_notes/Menacing Attack.md"
   ]
 }

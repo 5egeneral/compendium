@@ -20,7 +20,7 @@
     list-style: none;
     font-size: 15px
 }
-@media screen and (max-width: 840px) {
+@media screen and (max-width: 920px) {
     main .section-nav::before {
     content: "Nav";
     word-wrap: break-word;
@@ -67,5 +67,5 @@
 }
 
 .section-nav ul {
-    padding-left: min(20px, 25%);
+        
 }
