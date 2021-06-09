@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "_notes/20210609-Konahrik's Sorcerer Tweaks.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,8 +99,8 @@
   "active": "8d8fc67a50bdd774",
   "lastOpenFiles": [
     "_notes/20210609-Konahrik's Sorcerer Tweaks.md",
-    "_notes/20210609-.md",
     "readme.md",
+    "_notes/20210609-.md",
     "metadatatemplate.md",
     "note_template.md",
     "_notes/Disarming Attack.md",

@@ -96,6 +96,7 @@ At each indicated sorcerer level, you automatically learn the spells associated 
 |  9th  | Legend Lore, Scrying |
 
 ##### Phoenix
+
 | Level  | Spells |
 |:---:|:-----------:|
 |  1st  | Burning Hands, Searing Smite |
