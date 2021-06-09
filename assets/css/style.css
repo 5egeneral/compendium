@@ -834,8 +834,8 @@ h1 {
     clear: left;
     font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     font-size: 13px;
-    margin-left: -45%;
-    width: 40%;
+    margin-left: -34%;
+    width: 30%;
     margin-top: 0;
     margin-bottom: 0;
     vertical-align: baseline;
@@ -1420,14 +1420,14 @@ background-color: #FCF8EF;
 
 @media screen and (max-width: 1500px) {
  main .sn-left, main .mn-left {
-  margin-left:-23%;
-  width:20%;
+  margin-left:-23.5%;
+  width:19%;
  }
 }
 
 @media screen and (max-width: 1674px) {
- main .sn-left, main .mn-left {
-  margin-left:-32%;
-  width:30%;
+ .sn-left, .mn-left {
+margin-left: -28.5%;
+width: 25%;
  }
 }
