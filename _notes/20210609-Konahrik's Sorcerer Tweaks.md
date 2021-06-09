@@ -59,7 +59,7 @@ When you cast a spell and the spell requires a saving throw, you can spend a num
 **Widened Spell:**
 When you cast a spell that creates an area of effect, you can spend a number of sorcery points equal to the spell's level to increase its size. If it is a circle, cylinder, or sphere, its radius is doubled. If it is a line, its length and width are both doubled. If it is a cube or square, each of its sides is doubled in length.
 
-(Stolen from Rick's Guide to Fun)
+(Stolen from [Rick's Guide to Fun](https://www.patreon.com/posts/ricks-guide-to-16285048))
 
 #### Wellspring of Magic
 
@@ -69,7 +69,7 @@ When you have no sorcery points remaining at the beginning of your turn, you gai
 
 Additionally, you can use more than one metamagic option on the same casting of a spell. When you do so, the cheapest metamagic option that you apply does not cost sorcery points.
 
-(First paragraph stolen from Rick's Guide to Fun)
+(First paragraph stolen from [Rick's Guide to Fun](https://www.patreon.com/posts/ricks-guide-to-16285048))
 
 ## Sorcerous Origin Spells
 
