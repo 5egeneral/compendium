@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/manoeuvres/Disarming Attack.md",
+            "file": "_notes/20210609-Konahrik's Sorcerer Tweaks.md",
             "mode": "preview"
           }
         }
@@ -47,8 +47,19 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ee8ff7764558f3f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/20210609-Konahrik's Sorcerer Tweaks.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/manoeuvres/Disarming Attack.md",
+                "file": "_notes/20210609-Konahrik's Sorcerer Tweaks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +99,15 @@
   },
   "active": "8d8fc67a50bdd774",
   "lastOpenFiles": [
+    "_notes/20210609-Konahrik's Sorcerer Tweaks.md",
+    "_notes/20210609-.md",
+    "readme.md",
+    "metadatatemplate.md",
+    "note_template.md",
     "_notes/Disarming Attack.md",
     "_notes/20210528-Duty Beyond Death.md",
     "_notes/20210528-Clock Method.md",
     "_notes/20210528-Flexible-Resting.md",
-    "_notes/20210528-Improvised Maneuvers.md",
-    "readme.md",
-    "_notes/20210601-Creature Templates.md",
-    "_notes/Bait and Switch.md",
-    "_notes/Creature Template-Berserk Monster.md",
-    "_notes/20210529-Screw Method.md"
+    "_notes/20210528-Improvised Maneuvers.md"
   ]
 }
