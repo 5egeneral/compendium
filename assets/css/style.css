@@ -1394,7 +1394,7 @@ label.margin-toggle:not(.sidenote-number) {
     display: inline;
 }
 
-@media screen and (max-width: 1231px){
+@media screen and (max-width: 1249px){
 .container .box {
  width:70%;
 }
