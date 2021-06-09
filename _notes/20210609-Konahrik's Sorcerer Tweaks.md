@@ -51,15 +51,13 @@ You learn one additional metamagic option at 3rd level and again at 7th and 13th
 
 When you choose Metamagic options, you have access to the following additional options.
 
-**Altered Spell:**
+**Altered Spell:**[[Thought of this usage of swapping between physical to physical and mental to mental saving throws so you can't use the "Hold Person Dex save looks like you automatically fail your save for the duration" joke while still keeping it interesting.::lsn]]
 When you cast a spell and the spell requires a saving throw, you can spend a number of sorcery points equal to the spell's level to change the saving throw from one ability score to another of your choice. The saving throw can only be changed to one of the same type; you can swap between different physical saves (Strength, Dexterity, and Constitution) or mental saves (Intelligence, Wisdom, and Charisma), but you can't swap between a physical save and a mental save or vice versa.
 
-[[Thought of this usage of swapping between physical to physical and mental to mental saving throws so you can't use the "Hold Person Dex save looks like you automatically fail your save for the duration" joke while still keeping it interesting.::lmn]]
-
 **Widened Spell:**
-When you cast a spell that creates an area of effect, you can spend a number of sorcery points equal to the spell's level to increase its size. If it is a circle, cylinder, or sphere, its radius is doubled. If it is a line, its length and width are both doubled. If it is a cube or square, each of its sides is doubled in length.
+When you cast a spell that creates an area of effect, you can spend a number of sorcery points equal to the spell's level to increase its size. If it is a circle, cylinder, or sphere, its radius is doubled. If it is a line, its length and width are both doubled. If it is a cube or square, each of its sides is doubled in length. [[Taken from [Rick's Guide to Fun](https://www.patreon.com/posts/ricks-guide-to-16285048)::lsn]]
 
-[[Taken from [Rick's Guide to Fun](https://www.patreon.com/posts/ricks-guide-to-16285048)::lmn]]
+
 
 #### Wellspring of Magic
 
@@ -67,9 +65,7 @@ When you cast a spell that creates an area of effect, you can spend a number of 
 
 When you have no sorcery points remaining at the beginning of your turn, you gain 3 sorcery points. These sorcery points vanish if not used when you finish a long rest.
 
-Additionally, you can use more than one metamagic option on the same casting of a spell. When you do so, the cheapest metamagic option that you apply does not cost sorcery points.
-
-[[Taken from [Rick's Guide to Fun](https://www.patreon.com/posts/ricks-guide-to-16285048)::lmn]]
+Additionally, you can use more than one metamagic option on the same casting of a spell. When you do so, the cheapest metamagic option that you apply does not cost sorcery points. [[Taken from [Rick's Guide to Fun](https://www.patreon.com/posts/ricks-guide-to-16285048)::lsn]]
 
 ## Sorcerous Origin Spells
 
