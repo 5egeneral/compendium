@@ -1431,3 +1431,8 @@ margin-left: -28.5%;
 width: 25%;
  }
 }
+
+blockquote + blockquote {
+    padding-top: 0px;
+    margin-top: 0px;
+}

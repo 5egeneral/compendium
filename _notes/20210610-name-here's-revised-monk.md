@@ -127,9 +127,6 @@ At 9th level, you gain the ability to move along vertical surfaces and across li
 > What a great way to remind your self to unleash a vicious blow than a pile of d6s calling your name... or is that the names of your foes?
 
 
-
-
-
 > **Martial Step Movement Tip.**
 > It is a handy idea to track the speed bonus next to your base speed. Because Martial Step increases your speed, if you benefit from multiple speeds sources such as the *fly* spell, the speed increase applies to that source as well. 
 > \
