@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/20210609-Konahrik's Sorcerer Tweaks.md",
+            "file": "_notes/20210610-name-here's-revised-monk.md",
             "mode": "source"
           }
         }
@@ -54,11 +54,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/20210609-Konahrik's Sorcerer Tweaks.md"
+                "file": "_notes/20210610-name-here's-revised-monk.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/20210609-Konahrik's Sorcerer Tweaks.md",
+                "file": "_notes/20210610-name-here's-revised-monk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +99,7 @@
   },
   "active": "8d8fc67a50bdd774",
   "lastOpenFiles": [
+    "_notes/20210610-.md",
     "_notes/20210609-Konahrik's Sorcerer Tweaks.md",
     "readme.md",
     "_notes/20210609-.md",
@@ -106,7 +108,6 @@
     "_notes/Disarming Attack.md",
     "_notes/20210528-Duty Beyond Death.md",
     "_notes/20210528-Clock Method.md",
-    "_notes/20210528-Flexible-Resting.md",
-    "_notes/20210528-Improvised Maneuvers.md"
+    "_notes/20210528-Flexible-Resting.md"
   ]
 }
