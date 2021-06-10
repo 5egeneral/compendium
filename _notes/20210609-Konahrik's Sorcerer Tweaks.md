@@ -63,9 +63,9 @@ When you cast a spell that creates an area of effect, you can spend a number of 
 
 *20th-level sorcerer feature (replaces Sorcerous Restoration)*
 
-When you have no sorcery points remaining at the beginning of your turn, you gain 3 sorcery points. These sorcery points vanish if not used when you finish a long rest.
+When you have no sorcery points remaining at the beginning of your turn, you gain 3 sorcery points. These sorcery points vanish if not used when you finish a long rest. [[Taken from [Rick's Guide to Fun](https://www.patreon.com/posts/ricks-guide-to-16285048)::lsn]]
 
-Additionally, you can use more than one metamagic option on the same casting of a spell. When you do so, the cheapest metamagic option that you apply does not cost sorcery points. [[Taken from [Rick's Guide to Fun](https://www.patreon.com/posts/ricks-guide-to-16285048)::lsn]]
+Additionally, you can use more than one metamagic option on the same casting of a spell. When you do so, the cheapest metamagic option that you apply does not cost sorcery points. 
 
 ## Sorcerous Origin Spells
 
