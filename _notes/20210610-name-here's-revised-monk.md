@@ -98,7 +98,7 @@ Some of your ki features require your target to make a saving throw to resist th
 
 #### Martial Strikes\*
  - **Blood Strike:** 
- Immediately after you deal damage with a melee weapon attack, you can spend ki points up to your maximum to increase the attack damage to the creature. The creature must make Constitution saving throw. For each ki point spent, the creatures takes 1d6 damage on failed save, or half as much on a successful one. Unless the creature has an unusual resilience such as Legendary Resistiance, if you spend an amount of ki equal to your Ki Point Maximum, the target creature automatically fails the saving throw.
+ Immediately after you deal damage with a melee weapon attack, you can spend ki points up to your maximum to increase the attack damage to the creature. The creature must make a Constitution saving throw. For each ki point spent, the creatures takes 1d6 damage on failed save, or half as much on a successful one. Unless the creature has an unusual resilience such as Legendary Resistance, if you spend an amount of ki equal to your Ki Point Maximum, the target creature automatically fails the saving throw.
  - **Guard Strike:** 
  Immediately after you deal damage with a melee weapon attack, you can spend 1 ki point to grant an ally advantage on their next attack roll against the damaged creature.
  - **Hip Strike:** 
