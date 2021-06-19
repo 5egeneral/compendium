@@ -1,3 +1,10 @@
+---
+title: Avenger Rebuild
+state: publish
+tags: [homebrew, class, port]
+author: Nine
+toc: true
+---
 
 ## The Avenger
 
