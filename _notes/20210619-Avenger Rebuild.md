@@ -37,10 +37,10 @@ As an avenger, you gain the following class features.
 **Skills:** Choose three from Athletics, Acrobatics, History, Medicine, Intimidation, Perception, Religion, Stealth.<br><br>
 **Equipment.**<br>
 You start with the following equipment, in addition to the equipment granted by your background:<br>
-- (a) a greatsword or (b) any two-handed melee weapon
-- (a) any simple weapon
-- (a) a priest's pack or (b) an explorer's pack
-- A holy symbol, and robes dedicated to your temple sect<br>
+&nbsp; &nbsp; &nbsp;**·** (a) a greatsword or (b) any two-handed melee weapon<br>
+&nbsp; &nbsp; &nbsp;**·** (a) any simple weapon<br>
+&nbsp; &nbsp; &nbsp;**·** (a) a priest's pack or (b) an explorer's pack<br>
+&nbsp; &nbsp; &nbsp;**·** A holy symbol, and robes dedicated to your temple sect<br>
 Alternatively, you may start with 5d4 x 10 gp to buy your own equipment.::lmn]]
 
 ##### The Avenger
