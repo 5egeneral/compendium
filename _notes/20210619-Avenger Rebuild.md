@@ -6,6 +6,11 @@ author: Nine
 toc: true
 ---
 
+> Hello, this is the author of this homebrew, Nine.
+> This is a rebuild of a popular class in 4th edition, the Avenger, built with 5th edition sensibilities. Hope you enjoy it warmly.
+> If you like what you see here, you can always buy me a kofi! https://ko-fi.com/909nineball
+> And feel free to say hi to me on twitter: https://twitter.com/909Nineball
+
 ## The Avenger
 
 A stoic human warrior dressed in nothing but sacred robes darts down an alleyway with his greatsword, muttering an oath to destroy the bugbear that is preparing to strike down an innocent victim. The faith he has in his deity ensures himself that he will not fail to fulfill his duty.
