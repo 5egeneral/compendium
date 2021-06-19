@@ -110,7 +110,7 @@ As a bonus action, you can swear an oath to your deity to bring down a creature 
 As a reaction while holding or presenting the holy symbol of your deity, you can use your Channel Divinity to give an ally advantage on an attack roll, ability check, or saving throw they make during the current turn.
 
 ### Temple Sect
-When you reach 3rd level, [make a choice of religious sect to be a part of](#avenger-sect). Many avengers are already part of a sect while training as an agent of their deity, but some avengers have decided to split from their associated temple, working solely on behalf of their deity. Regardless, your choice grants you features at 3rd level and again at 7th level, 11th level, and 18th level.
+When you reach 3rd level, [make a choice of religious sect to be a part of](#avenger-sectss). Many avengers are already part of a sect while training as an agent of their deity, but some avengers have decided to split from their associated temple, working solely on behalf of their deity. Regardless, your choice grants you features at 3rd level and again at 7th level, 11th level, and 18th level.
 
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th level, 12th level, 16th level, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -140,7 +140,7 @@ You start out with one effect for your spiritual temple, chosen from the followi
 
 ### Temple Sect Feature
 
-At 7th level, you gain a feature from your [Temple Sect](#avenger-sect).
+At 7th level, you gain a feature from your [Temple Sect](#avenger-sects).
 
 ### Greater Armor of Faith
 
@@ -148,7 +148,7 @@ When you reach 10th level, your faith shields you to an even greater effect than
 
 ### Temple Sect Feature
 
-At 11th level, you gain a feature from your [Temple Sect](#avenger-sect).
+At 11th level, you gain a feature from your [Temple Sect](#avenger-sects).
 
 ### Eyes of the Gods
 
@@ -156,7 +156,7 @@ Starting at 14th level, your connection to providence grants you sight that allo
 
 ### Temple Sect Feature
 
-At 18th level, you gain a feature from your [Temple Sect](#avenger-sect).
+At 18th level, you gain a feature from your [Temple Sect](#avenger-sects).
 
 ### Endless Enmity
 
