@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,12 +110,12 @@
   "active": "8d8fc67a50bdd774",
   "lastOpenFiles": [
     "_notes/20210619-Avenger Rebuild.md",
+    "_notes/20210609-Konahrik's Sorcerer Tweaks.md",
     "readme.md",
     "_notes/Avenger Sects.md",
     "_notes/Untitled.md",
     "_notes/20210610-name-here's-revised-monk.md",
     "_notes/20210610-.md",
-    "_notes/20210609-Konahrik's Sorcerer Tweaks.md",
     "_notes/20210609-.md",
     "metadatatemplate.md",
     "note_template.md"

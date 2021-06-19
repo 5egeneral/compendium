@@ -25,26 +25,26 @@ To be an avenger is to be a holy warrior who fights for their deity before all e
 
 As an avenger, you gain the following class features.
 
-##### Hit Points
+[[<h5>Hit Points</h5>
 **Hit Dice:** 1d10 per avenger level<br>
 **Hit Points at 1st Level:** 10 + your Constitution modifier<br>
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per avenger level after 1st<br>
 
-##### Proficiencies
+<h5>Proficiencies</h5>
 **Armor:** light armor, medium armor<br>
 **Weapons:** Simple weapons, martial melee weapons<br>
 **Tools:** None<br>
 **Saving Throws:** Strength, Wisdom<br>
 **Skills:** Choose three from Athletics, Acrobatics, History, Medicine, Intimidation, Perception, Religion, Stealth.
 
-##### Equipment
+<h5>Equipment</h5>
 You start with the following equipment, in addition to the equipment granted by your background:
 - (a) a greatsword or (b) any two-handed melee weapon
 - (a) any simple weapon
 - (a) a priest's pack or (b) an explorer's pack
 - A holy symbol, and robes dedicated to your temple sect
 
-Alternatively, you may start with 5d4 x 10 gp to buy your own equipment.
+Alternatively, you may start with 5d4 x 10 gp to buy your own equipment.::lmn]]
 
 ##### The Avenger
 
