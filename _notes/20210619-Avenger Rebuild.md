@@ -25,7 +25,7 @@ To be an avenger is to be a holy warrior who fights for their deity before all e
 
 As an avenger, you gain the following class features.
 
-[[**Hit Points.**
+[[**Hit Points.**<br>
 **Hit Dice:** 1d10 per avenger level<br>
 **Hit Points at 1st Level:** 10 + your Constitution modifier<br>
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per avenger level after 1st<br><br>
