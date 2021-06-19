@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/20210619-Avenger Rebuild.md",
+            "file": "readme.md",
             "mode": "source"
           }
         }
@@ -108,11 +108,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1786ac4c58881feb",
+  "active": "8d8fc67a50bdd774",
   "lastOpenFiles": [
     "_notes/20210619-Avenger Rebuild.md",
-    "_notes/Avenger Sects.md",
     "readme.md",
+    "_notes/Avenger Sects.md",
     "_notes/Untitled.md",
     "_notes/20210610-name-here's-revised-monk.md",
     "_notes/20210610-.md",

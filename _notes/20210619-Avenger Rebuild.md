@@ -168,16 +168,16 @@ To be an avenger is to act solely on behalf of your deity, working as a divine w
 
 #### Dervish of the Dawn
 
-Practicioners of [[Avenger Sects#Dervish of the Dawn|this particular temple sect]] believe that avengers bring with them the light of dawn, and participate in traditions of dance and performative arts that bring the warmth of the dawn to others who would seek it. In battle, they are holy warriors that bring upon a dance of steel to eviscerate their foes.
+Practicioners of [[Avenger Sects#Dervish of the Dawn\|this particular temple sect]] believe that avengers bring with them the light of dawn, and participate in traditions of dance and performative arts that bring the warmth of the dawn to others who would seek it. In battle, they are holy warriors that bring upon a dance of steel to eviscerate their foes.
 
 #### Oathsworn
 
-Those who are part of the [[Avenger Sects#Oathsworn|Oathsworn sect]] fully embody becoming an instrument of their deity, and learn to channel their oath of enmity to greater effect with the vengeful wrath of the heavens.
+Those who are part of the [[Avenger Sects#Oathsworn\|Oathsworn sect]] fully embody becoming an instrument of their deity, and learn to channel their oath of enmity to greater effect with the vengeful wrath of the heavens.
 
 #### Favored Soul
 
-This sect teaches that avengers, who carry a divine spark of their deity within them, are destined to become angels to serve the deity as part of an ascension rite. As a [[Avenger Sects#Favored Soul|Favored Soul]], you can eventually manifest the powers of the celestials to further the cause of your deity.
+This sect teaches that avengers, who carry a divine spark of their deity within them, are destined to become angels to serve the deity as part of an ascension rite. As a [[Avenger Sects#Favored Soul\|Favored Soul]], you can eventually manifest the powers of the celestials to further the cause of your deity.
 
 #### Zealous Assassin
 
-The adherents of this temple sect are [[Avenger Sects#Zealous Assassin|practioners of secretive assassination arts]], allowing these avengers to execute the enemies of their deity. You are a blade guided by providence to destroy your deity's foes, utilizing a combination of divine shadows and deadly, destructive precision with your weapon.
+The adherents of this temple sect are [[Avenger Sects#Zealous Assassin\|practioners of secretive assassination arts]], allowing these avengers to execute the enemies of their deity. You are a blade guided by providence to destroy your deity's foes, utilizing a combination of divine shadows and deadly, destructive precision with your weapon.
