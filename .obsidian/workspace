@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/20210620-Milk's Pugilist.md",
+            "file": "_notes/20210619-Avenger Rebuild.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/20210620-Milk's Pugilist.md",
+            "file": "_notes/20210619-Avenger Rebuild.md",
             "mode": "preview"
           }
         },
@@ -67,12 +67,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/20210620-Milk's Pugilist.md"
+                "file": "_notes/20210619-Avenger Rebuild.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/20210620-Milk's Pugilist.md",
+                "file": "_notes/20210619-Avenger Rebuild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +111,15 @@
   },
   "active": "8d8fc67a50bdd774",
   "lastOpenFiles": [
+    "_notes/20210619-Avenger Rebuild.md",
+    "_notes/20210610-name-here's-revised-monk.md",
     "_notes/20210620-Milk's Pugilist.md",
     "_notes/20210619-Maneuver Options.md",
     "_notes/20210603-College of Iconoclasm.md",
     "_notes/20210618-Pugilist.md",
     "readme.md",
-    "_notes/20210619-Avenger Rebuild.md",
     "_notes/20210609-Konahrik's Sorcerer Tweaks.md",
     "_notes/Avenger Sects.md",
-    "_notes/Untitled.md",
-    "_notes/20210610-name-here's-revised-monk.md"
+    "_notes/Untitled.md"
   ]
 }

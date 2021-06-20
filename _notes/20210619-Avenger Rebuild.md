@@ -1,7 +1,7 @@
 ---
 title: Nine's Avenger Rebuild
 state: publish
-tags: [homebrew, class, 4e port]
+tags: [homebrew, class, "4e port"]
 author: Nine
 toc: true
 ---
