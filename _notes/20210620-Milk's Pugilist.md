@@ -31,9 +31,9 @@ Also at 3rd level, you learn how to use special abilities called Specials.
 
 ***Saving Throws.*** Some of your specials may require your target to make a saving throw to resist the specials effects. The saving throw DC is calculated as follows:
  
- <p><center> 
+<center><p>
 <strong> Special Save DC</strong>  = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
- </center></p>
+</p> </center>
 
  
 
