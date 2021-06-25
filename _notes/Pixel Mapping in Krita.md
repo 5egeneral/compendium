@@ -144,14 +144,14 @@ Repeat the process for each of the accents you wish to use use.
 Create a new group called map ornaments. Ornaments such as roads, towns, and large mountains will be added to this folder.
 
 #### Adding large mountains
-Drag and drop `map decoration/mountain/mountainbig.png` into Krita. When prompted, select `insert as new layer`. Selectively erase parts of the mountain sprite or the mountain asset layer to get them to line up properly.
+Drag and drop `map decoration/mountain/mountainbig.png` into Krita. When prompted, select `insert as new layer`. Use the move tool (hotkey t) to adjust its positioning. Selectively erase parts of the mountain sprite or the mountain asset layer to get them to line up properly.
 
 #### Adding cities
 I recommend not including every town on your map, instead limiting yourself to only the largest cities. Make use of the limited colour palette and space to include only the essentials for making a town distinct: a handful of buildings in a style unique for the nation.
 
 The colour used for the background of towns and roads in the example map is `e3cec0`. The github release also contains some example buildings in various flavours which can be used.
 
-Drag and drop buildings from the `map decoration/buildings/krita` folder into Krita. When prompted, select `insert as new layer`. Repeat to build towns. 
+Drag and drop buildings from the `map decoration/buildings/krita` folder into Krita. When prompted, select `insert as new layer`. Use the move tool (hotkey t) to adjust its positioning. Repeat to build towns. 
 
 Select all layers that contain buildings and towns that belong to the same nation and right click and merge them, for organizational ease.
 
