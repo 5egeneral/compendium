@@ -22,11 +22,11 @@ Pixel or raster layers are called paint layers. One can add new layers using thi
 
 ![Pasted image 20210624155315.png](/assets/img/Pasted%20image%2020210624155315.png#center)
 
-Selecting one or more layers and select the group option after right clicking them to group them. Alternatively, press ctrl+g after selecting the layers.
+Select one or more layers and select the group option after right clicking them to group them. Alternatively, press ctrl+g after selecting the layers.
 
 ![Pasted image 20210624155533.png](/assets/img/Pasted%20image%2020210624155533.png#center)
 
-A brush's size can include decimals. To type a brush's size, right click the size selector an input a number.
+A brush's size can include decimals. To type a brush's size, right click the size selector and input a number.
 
 ![Pasted image 20210624160433.png](/assets/img/Pasted%20image%2020210624160433.png#center)
 
