@@ -41,12 +41,12 @@ Place the  biome plan into a group called biomes.
 
 Select the biome group and the outline, and then create another group called land.
 
-Finally, create 4 empty layers and place them into a group called water. With the names and the order matching the image below.
+Finally, create 4 empty layers and place them into a group called water. Arrange them so the names and the order match the image below.
 
 ![Pasted image 20210624161708.png](/assets/img/Pasted%20image%2020210624161708.png#center)*How your layer overview should look after following the steps above.*
 
 ### Separating the biomes
-Select the biome layer. Using the similar color selection tool (settings: 0 tolerance, anti-alias off, and contiguous disabled), select a biome colour.
+Select the biome layer. Using the similar color selection tool (setting: 1 fuzziness), select a biome colour.
 
 ![Pasted image 20210624161858.png](/assets/img/Pasted%20image%2020210624161858.png#center)
 
@@ -84,11 +84,11 @@ Change the foreground colour to `1d8cbd`. Grow the selection by 1 pixel and sele
 Select the whole image by pressing control + a, and then fill the water layer with the foreground colour.
 
 ### Importing patterns
-Open the Manage Resources dialogue box import patterns. Select all the images in the textures folder, which can be found in the github releases. You can select more than one file at a time by pressing control + a while you have opened the textures folder.
+Open the Manage Resources dialogue box and import patterns. Select all the images in the textures folder, which can be found in the github releases. You can select more than one file at a time by pressing control + a while you have opened the textures folder.
 
 ![Pasted image 20210624171934.png](/assets/img/Pasted%20image%2020210624171934.png#center)
 
-After importing the patterns, save and exit Krita, and then reopen your project, to make sure the texture have been saved.
+After importing the patterns, save and exit Krita, and then reopen your project, to make sure the textures have been saved.
 
 ### Overlaying patterns
 
@@ -100,7 +100,7 @@ Change the blend mode to normal and increase the opacity to 100%. Finally increa
 
 Do the same for the **shallow water** layer, but use the `watercoast` texture.
 
-Due to a peculiarity in how Krita lays out tiles, land textures need to be overlayed in a different way to match seamlessly.
+Due to a peculiarity in how Krita lays out tiles, land textures need to be overlayed in a different way to line up seamlessly.
 
 Select a 'base layer' and then click the 'add other layer type' button. Select fill layer, and then select the appropriate base texture.
 
@@ -144,16 +144,16 @@ Repeat the process for each of the accents you wish to use use.
 Create a new group called map ornaments. Ornaments such as roads, towns, and large mountains will be added to this folder.
 
 #### Adding large mountains
-Drag and drop `mapdecoration/mountain/mountainbig.png` into Krita. When prompted, select `insert as new layer`. Selectively erase parts of the mountain sprite or the mountain asset layer to get them to line up properly.
+Drag and drop `map decoration/mountain/mountainbig.png` into Krita. When prompted, select `insert as new layer`. Selectively erase parts of the mountain sprite or the mountain asset layer to get them to line up properly.
 
 #### Adding cities
 I recommend not including every town on your map, instead limiting yourself to only the largest cities. Make use of the limited colour palette and space to include only the essentials for making a town distinct: a handful of buildings in a style unique for the nation.
 
 The colour used for the background of towns and roads in the example map is `e3cec0`. The github release also contains some example buildings in various flavours which can be used.
 
-Drag and drop buildings from the `buildings/krita` folder into Krita. When prompted, select `insert as new layer`. Repeat to build towns. 
+Drag and drop buildings from the `map decoration/buildings/krita` folder into Krita. When prompted, select `insert as new layer`. Repeat to build towns. 
 
-Select all layers that contain buildings and towns that belong to the same nation and merge them, for organizational ease.
+Select all layers that contain buildings and towns that belong to the same nation and right click and merge them, for organizational ease.
 
 ### Adding labels
 There are countless pixel-fonts available for free on [fontstruct](https://fontstruct.com/gallery/tag/9/Pixel).

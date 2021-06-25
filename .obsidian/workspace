@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Pixel Mapping in Krita.md",
+            "file": "_notes/Pixel Mapping in Photoshop.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Pixel Mapping in Krita.md",
-            "mode": "source"
+            "file": "_notes/Pixel Mapping in Photoshop.md",
+            "mode": "preview"
           }
         },
         "group": "b5f439a42ccf1015"
@@ -69,7 +69,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Pixel Mapping in Krita.md"
+                "file": "_notes/Pixel Mapping in Photoshop.md"
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Pixel Mapping in Krita.md",
+                "file": "_notes/Pixel Mapping in Photoshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,12 +111,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d8fc67a50bdd774",
+  "active": "0dc6bd9f1dd03f05",
   "lastOpenFiles": [
+    "_notes/Pixel Mapping in Photoshop.md",
     "_notes/Pixel Mapping in Krita.md",
     "readme.md",
     "_notes/Avenger Sects.md",
-    "_notes/Pixel Mapping in Photoshop.md",
     "_notes/20210624-Pixel Art Mapping.md",
     "_notes/20210627-Pixel Art Mapping.md",
     "_notes/20210621-Pixel Art Mapping.md",

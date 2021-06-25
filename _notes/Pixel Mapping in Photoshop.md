@@ -8,7 +8,7 @@ toc: true
 The version of Photoshop used in this tutorial is CC 2019. There may be differences between the user interface in screenshots and the user interface of the version of Photoshop that you are using
 
 ### Setting up layers and groups
-Create a new .psd file with the dimensions of the outline file. Open the outline file and select and copy its contents (ctrl +a, then ctrl+c). Paste into a new layer in the .psd. Repeat with the biome plan you made in tiled. Finally, create 4 empty layers and place them into a folder called water. With the names and the order matching the image below.
+Create a new .psd file with the dimensions of the outline file. Open the outline file and select and copy its contents (ctrl +a, then ctrl+c). Paste into a new layer in the .psd. Repeat with the biome plan you made in tiled. Finally, create 4 empty layers and place them into a folder called water. Arrange layers so the names and the order match the image below.
 
 ![Pasted image 20210622011544.png](/assets/img/Pasted%20image%2020210622011544.png#center)*How your layer overview should look after following the steps above.*
 
@@ -44,7 +44,7 @@ Repeat this process for the final time, expanding by 1 pixel and selecting the *
 Select the whole image by pressing control + a, and then fill the water layer with black.
 
 ### Importing patterns
-Open the presets manager and go to the Patterns preset type. Load `Patterns.pat`, which can be found in the github releases.
+Open the presets manager and go to the Patterns preset type. Load `Patterns.pat`.
 
 ![Pasted image 20210622023701.png](/assets/img/Pasted%20image%2020210622023701.png#center).
 
