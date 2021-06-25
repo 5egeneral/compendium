@@ -6,7 +6,7 @@ author: foreveryone
 toc: true
 ---
 
- %%<iframe src="https://foreveryone1.github.io/map/#-173.5,368,1z" style="height:300px;width:100%;" title="Pixel Map Example"></iframe>%%*An example of the type of map one can make with pixel art.*
+ <iframe src="https://foreveryone1.github.io/map/#-173.5,368,1z" style="height:300px;width:100%;" title="Pixel Map Example"></iframe>*An example of the type of map one can make with pixel art.*
 
 There are many ways of presenting your campaign's world, from realistic terrain  maps to more diegetically plausible painterly maps.
 
