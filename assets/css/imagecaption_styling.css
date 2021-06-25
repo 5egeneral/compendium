@@ -1,3 +1,4 @@
+iframe + em,
 img[src*="#center"] + em {
     font-size: 0.75em;
     opacity: 0.7;
