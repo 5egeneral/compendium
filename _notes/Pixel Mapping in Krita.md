@@ -16,11 +16,11 @@ You zoom in and out by simply using the scroll wheel, and you pan the image with
 
 The advanced color selector doesn't have a field to enter the hex code of a color. Instead, click the color selector on the top bar to enter a hex code.
 
-![Pasted image 20210624155006.png](assets/img/Pasted%20image%2020210624155006.png#center)
+![Pasted image 20210624155006.png](/assets/img/Pasted%20image%2020210624155006.png#center)
 
 Pixel or raster layers are called paint layers. One can add new layers using this button in the layer overview panel.
 
-![Pasted image 20210624155315.png](assets/img/Pasted%20image%2020210624155315.png#center)
+![Pasted image 20210624155315.png](/assets/img/Pasted%20image%2020210624155315.png#center)
 
 Selecting one or more layers and select the group option after right clicking them to group them. Alternatively, press ctrl+g after selecting the layers.
 
@@ -54,7 +54,7 @@ Select the biome layer. Using the similar color selection tool (settings: 0 tole
 
 Right click the selection and select layer via cut.
 
-![Pasted image 20210624162207.png](assets/img/Pasted%20image%2020210624162207.png#center)
+![Pasted image 20210624162207.png](/assets/img/Pasted%20image%2020210624162207.png#center)
 
 Repeat for each biome colour.
 
@@ -122,7 +122,7 @@ After a group has been made, you can collapse it to conserve space.
 
 Add a paint layer above the *group* of the base layer. Add a fill layer on top of that. Group them together.
 
-![Pasted image 20210625004342.png](assets/img/Pasted%20image%2020210625004342.png#center)*The Hills Accent group is placed directly above the HillsBase group. The HillsAccentFill layer has alpha inheritance toggled.*
+![Pasted image 20210625004342.png](/assets/img/Pasted%20image%2020210625004342.png#center)*The Hills Accent group is placed directly above the HillsBase group. The HillsAccentFill layer has alpha inheritance toggled.*
 
 Select the accent **paint layer** and select the paint brush tool (hotkey b). In the Brush Presets pane, select the pixel art group and select the first brush.
 
