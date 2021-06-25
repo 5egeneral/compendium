@@ -29,7 +29,7 @@ A resolution of 1280 by 800 means the map will cover an area of 640 by 400 miles
 
 Using an image editing program of your preference, draw the outline of your landmass. Tracing distorted / composited real world maps or maps from [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) look just as good, and are much easier to make than starting from scratch. 
 
-![Map outline](/assets/img/outline.webp) *An example outline, generated on Azgaar's Fantasy Map Generator.*
+![Map outline](/assets/img/outline.webp#center) *An example outline, generated on Azgaar's Fantasy Map Generator.*
 
 ### Downloading the asset pack
 
