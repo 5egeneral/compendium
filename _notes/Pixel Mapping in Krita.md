@@ -33,7 +33,7 @@ A brush's size can include decimals. To type a brush's size, right click the siz
 ### Setting up layers and groups
 Create a new .kra file with the dimensions of the outline file. Drag and drop the outline file into the .kra file. When prompted, select `Insert as new layer`. 
 
-Repeat with the biome plan you made in tiled (the biome plan may not align properly, if this is the case, select the move tool and zoom in on the top left corner. Adjust until the corner of the biome plan matches with the image's top left corner.
+Repeat with the biome plan you made in tiled. The biome plan may not align properly, if this is the case, select the move tool and zoom in on the top left corner. Adjust until the corner of the biome plan matches with the image's top left corner.
 
 ![Pasted image 20210624162600.png](/assets/img/Pasted%20image%2020210624162600.png#center)
 
