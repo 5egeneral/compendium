@@ -6,11 +6,11 @@ author: foreveryone
 toc: true
 ---
 
- <iframe src="https://foreveryone1.github.io/map/#-173.5,368,1z" style="height:40vh;width:100%;" title="Pixel Map Example"></iframe>*An example of the type of map one can make with pixel art.*
+ <iframe src="https://5egeneral.github.io/map/#-97.125,237,2z" style="height:40vh;width:100%;" title="Pixel Map Example"></iframe>*An example of the type of map one can make with pixel art.*
 
 There are many ways of presenting your campaign's world, from realistic terrain  maps to more diegetically plausible painterly maps.
 
-A pixel art map is decidedly on the 'stylised' side of the spectrum, which comes with certains benefits and drawbacks: the art style implicitly communicates that the map is an incomplete representation of the world, rather than an end-all be-all map of the environ. This gives the DM leeway to deviate from the visuals of the map.
+A pixel art map is decidedly on the 'stylised' side of the spectrum, which comes with certain benefits and drawbacks: the art style implicitly communicates that the map is an incomplete representation of the world, rather than an end-all be-all map of the environ. This gives the DM leeway to deviate from the visuals of the map.
 
 In addition, the simplified vibrant symbols on a pixel art map's tiles quickly communicate the various environments, making them very player-legible.
 
