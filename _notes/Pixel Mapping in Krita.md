@@ -178,3 +178,5 @@ Go to `layer > flatten image` and then go to `image > scale image to new size`. 
 The final result:
 
 [![mapexportkrita.png](/assets/img/mapexportkrita.png#center)](/assets/img/mapexportkrita.png#center)
+
+This means that, using [the scale we determined in the previous segment](https://5eg-compendium.netlify.app/notes/20210627-pixel-art-mapping#choosing-a-scale), the ratio of pixels to miles is now 4 to 1.

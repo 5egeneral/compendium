@@ -110,4 +110,8 @@ The save for web option with nearest neighbour scaling doesn't blur the output, 
 
 ![Pasted image 20210623150556.png](/assets/img/Pasted%20image%2020210623150556.png#center)
 
-[![mapexportphotoshop.png](/assets/img/mapexportphotoshop.png#center)](/assets/img/mapexportphotoshop.png#center)*The final result.*
+The final result:
+
+[![mapexportphotoshop.png](/assets/img/mapexportphotoshop.png#center)](/assets/img/mapexportphotoshop.png#center)
+
+This means that, using [the scale we determined in the previous segment](https://5eg-compendium.netlify.app/notes/20210627-pixel-art-mapping#choosing-a-scale), the ratio of pixels to miles is now 4 to 1.
