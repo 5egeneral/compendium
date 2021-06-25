@@ -5,9 +5,7 @@ author: foreveryone
 toc: true
 ---
 
-Krita is a free and open source painting program which supports non-destructive editing, unlike GIMP, the other premier open source image editor, which is why it has my preference.
-
-[Get Krita here.](https://krita.org/en/download/krita-desktop/)
+The version of Photoshop used in this tutorial is CC 2019. There may be differences between the user interface in screenshots and the user interface of the version of Photoshop that you are using
 
 ### Setting up layers and groups
 Create a new .psd file with the dimensions of the outline file. Open the outline file and select and copy its contents (ctrl +a, then ctrl+c). Paste into a new layer in the .psd. Repeat with the biome plan you made in tiled. Finally, create 4 empty layers and place them into a folder called water. With the names and the order matching the image below.

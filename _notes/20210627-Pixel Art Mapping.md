@@ -91,11 +91,11 @@ If your biomes intersect, which they most likely will when planning the hills an
 
 Once you are satisfied with the arrangement of the biomes, hide the object layer by clicking on the eye in the layer overview.
 
-![Pasted image 20210621173818.png](assets/img/Pasted%20image%2020210621173818.png#center)
+![Pasted image 20210621173818.png](/assets/img/Pasted%20image%2020210621173818.png#center)
 
 Export the map as an image with the settings below.
 
-![Pasted image 20210621174147.png](assets/img/Pasted%20image%2020210621174147.png#center)
+![Pasted image 20210621174147.png](/assets/img/Pasted%20image%2020210621174147.png#center)
 
 ### Texturing the map
 
