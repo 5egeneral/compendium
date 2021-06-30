@@ -17,7 +17,7 @@ At 3rd level, you can enter a special combat stance called a sword dance as a bo
 - Each time you hit a creature with a one-handed weapon, and you're able to attack with a second weapon, add the damage dice of both weapons to the damage roll.
 - Each time you hit a creature with a weapon, you can move up to 10 feet without provoking opportunity attacks.
 
-Your sword dance ends after 1 minute, or if you end your turn without moving more than 10 feet during the turn.
+Your sword dance ends after 1 minute, or if you end your turn without moving more than 10 feet during the turn. Once your sword dance ends, you cannot use it again until you finish a short or long rest.
 
 #### Performance Artist
 
