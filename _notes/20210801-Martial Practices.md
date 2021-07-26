@@ -31,9 +31,9 @@ If a practice has more than one key proficiency, you choose which one to use.
 ***Effects.*** The remaining text details the benefit you gain when you finish performing the practice uninterrupted.
 
 > ##### Making a Practice
-> As a DM, you may find that the sample practices in the next section don't fit what you're looking for, or that a player wants to make a custom one for their character. If you want to make your own martial practice below, consider the design points below:
->- Martial practices are typically comparable to ritual spells. They might take a shorter amount of time to activate, but they might have a hit die cost (see below), and the effect itself might be less powerful than what a ritual spell can do.
->- Hit dice are used as a component cost to deter constant spamming and to create a choice between out of combat healing and some extra utility during the adventuring day. Gold is only usually a cost if the practice requires the use of external materials or other resources.
+> As a DM, you may find that the sample practices in the next section don't fit what you're looking for, or that a player wants to make a custom one for their character. If you want to make your own martial practice below, consider the design points below:  
+> - Martial practices are typically comparable to ritual spells. They might take a shorter amount of time to activate, but they might have a hit die cost (see below), and the effect itself might be less powerful than what a ritual spell can do.
+> - Hit dice are used as a component cost to deter constant spamming and to create a choice between out of combat healing and some extra utility during the adventuring day. Gold is only usually a cost if the practice requires the use of external materials or other resources.
 
 ### Sample Practices
 The martial practices below are presented in alphabetical order.
