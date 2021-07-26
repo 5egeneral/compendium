@@ -1,3 +1,8 @@
+blockquote {
+background-color: #EEE8D5;
+border-radius: 5px;
+}
+
 h2[id*="tier"] ~ blockquote {
 	margin-left: 0;
 	margin-right: 0;
@@ -5,6 +10,7 @@ h2[id*="tier"] ~ blockquote {
 	column-count: 4 !important;
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
+	background-color: transparent;
 	grid-gap: 4px;
 }
 
