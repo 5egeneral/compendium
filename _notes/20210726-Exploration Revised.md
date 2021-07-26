@@ -2,6 +2,7 @@
 title: Exploration Revised
 state: publish
 tags: [homebrew, exploration, rule]
+toc: true
 author: badooga
 ---
 
@@ -89,6 +90,7 @@ You can use the travel pace rules detailed in the *Player's Handbook* to represe
 Note that the tables below, as well as the one presented in the *Player's Handbook*, use distances that are rounded to nice numbers. While this may cause them to be slightly inaccurate, the rounding here makes these values much easier to use in play. To avoid these inaccuracies from bogging down your game, consider only focusing on the Distance Traveled per Day column of each table as much as possible.
 
 ##### Travel Pace: Normal Wilderness
+
 | Pace   | Distance Traveled per Minute | Distance Traveled per Hour | Distance Traveled per Day |
 |:-------|:-----------------------------|:---------------------------|:--------------------------|
 | Slow   | 150 feet                     | 1.5 miles                  | 12 miles                  |
@@ -96,6 +98,7 @@ Note that the tables below, as well as the one presented in the *Player's Handbo
 | Fast   | 300 feet                     | 3 miles                    | 24 miles                  |
 
 ##### Travel Pace: Difficult Terrain
+
 | Pace   | Distance Traveled per Minute | Distance Traveled per Hour | Distance Traveled per Day |
 |:-------|:-----------------------------|:---------------------------|:--------------------------|
 | Slow   | 100 feet                     | 1 mile                     | 9 miles                   |
@@ -125,6 +128,7 @@ This activity covers gathering food and water from the surrounding wilderness. I
 A foraging character makes an appropriate check as the party travels at a normal or slow pace, with the DC determined by the abundance of food and water in the region.
 
 ##### Foraging DCs
+
 | Food and Water Availability                 | DC |
 |:--------------------------------------------|:--:|
 | Abundant food and water sources             | 10 |
@@ -156,6 +160,7 @@ If the party is moving at a slow pace, the navigator gains a +5 bonus to the che
 When the party finds one or more shortcuts, note that these alternative paths are a perfect opportunity for excitement and adventure. Perhaps a given shortcut might pass through territory controlled by hostile creatures, or maybe the shortcut is a dungeon of sorts that the party must fight their way out of. Note that if the party believes the risk to be too high, they can always opt to not take any shortcuts for the day.
 
 ##### Shortcut DCs
+
 | Description | DC   |
 |:------------|------|
 | Shortcut has a clear road, trail, or well-marked path leading to it | None |
@@ -170,6 +175,7 @@ When the party finds one or more shortcuts, note that these alternative paths ar
 In environments where travel paces are even slower than that of difficult terrain, the speed the party can travel at doubles on a success.
 
 ##### Overcoming Difficult Terrain DCs
+
 | Source of Difficult Terrain | DC |
 |:----------------------------|----|
 | Difficult terrain is created by magic or some other supernatural force | 20 |
@@ -186,6 +192,7 @@ In environments where travel paces are even slower than that of difficult terrai
 | Grassland, meadow, farmland                                                            | 5  |
 
 #### Noticing Threats
+
 - **Example Skills:** Nature, Perception
 - **Example Tools:** —
 
@@ -198,6 +205,7 @@ What the character notices with their check depends on the nature of the potenti
 ***Wilderness Hazards.*** While hazards like razorvine and slippery ice can be spotted without a check, quicksand, thin ice, and other hazards might be harder to spot or to identify for what they are. Spotting a wilderness hazard ahead of time might prevent the party from accidentally falling victim to it.
 
 #### Scouting
+
 - **Example Skills:** Investigation, Survival
 - **Example Tools:** —
 
@@ -210,6 +218,7 @@ For the purpose of keeping the game simple and fair, you can consider a scouting
 Remember that withholding opportunities for adventuring isn't fun for the party. While active scouting should be rewarded on a success, the party should still be provided with interesting locations to explore even if they don't have a scout.
 
 ##### Discovery DCs
+
 | Description | DC   |
 |:------------|------|
 | Location has a clear road, trail, or well-marked path leading to it | None |
@@ -230,6 +239,7 @@ The DC for the check depends on how well the ground shows signs of a creature's 
 On a failed check, the character loses the trail but can attempt to find it again by making a careful search of the area. It takes 10 minutes to find a trail in a confined area such as a dungeon, or 1 hour outdoors.
 
 ##### Tracking DCs
+
 | Ground Surface                      | DC |
 |:------------------------------------|:--:|
 | Soft surface such as snow           | 10 |
