@@ -55,6 +55,10 @@
                 or page.content-type == "post" 
                 or page.content-type == "eg" -%}
             <main>
+				{%- if page.compacttoc == true -%}
+					<div class = "compacttoc">
+					</div>
+				{%- endif -%}
                 <h1>{{page.title}}</h1>
                 <div class="author">{{page.author}}</div>
                 {%- include content.html -%}
