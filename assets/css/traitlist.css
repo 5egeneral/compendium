@@ -1,0 +1,46 @@
+h2[id*="tier"] ~ blockquote {
+	margin-left: 0;
+	margin-right: 0;
+	padding: 0px;
+	column-count: 4 !important;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 4px;
+}
+
+h2[id*="tier"] ~ blockquote > blockquote {
+	margin-left: 0;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 4px;
+	padding: 0px;
+	display: block;
+	background-color: #EEE8D5;
+	border-radius: 5px;
+}
+
+@media screen and (max-width: 1300px) {
+h2[id*="tier"] ~ blockquote {
+	column-count: 3 !important;
+	grid-template-columns: repeat(3, 1fr);
+ }
+}
+
+@media screen and (max-width: 800px) {
+.content h2[id*="tier"] ~ blockquote {
+	column-count: 2 !important;
+	grid-template-columns: repeat(2, 1fr);
+ }
+}
+
+@media screen and (max-width: 580px) {
+.content h2[id*="tier"] ~ blockquote {
+	column-count: 1 !important;
+	grid-template-columns: repeat(1, 1fr);
+ }
+}
+
+
+h2[id*="tier"] + blockquote > blockquote p {
+padding-top: 0px
+}
