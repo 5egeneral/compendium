@@ -2,6 +2,7 @@
 title: Hiding Revised
 state: publish
 tags: [homebrew, combat, rule]
+toc: true
 author: badooga
 ---
 Both in and out of combat, hiding is an activity where you attempt to remain undetected by one or more creatures. If successful, it can be used to sneak through hostile areas or get the drop on unsuspecting foes in combat.
