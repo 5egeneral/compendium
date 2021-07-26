@@ -1,7 +1,7 @@
 ---
 title: Expanded Rules for Martials
 state: publish
-tags: [homebrew, combat, rule]
+tags: [homebrew, combat, martial, rule]
 author: badooga
 ---
 The variant, optional, and expanded rules below can be used to enhance combat for martial characters.
