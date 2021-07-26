@@ -1,5 +1,5 @@
   .compacttoc ~ .section-nav > li > ul > li > ul {
-    display:none ;
+    display:none;
   }
   .section-nav {
     float: right;
@@ -16,7 +16,6 @@
     position: sticky;
     top: 380px;
   }
-}
 
 .section-nav li {
     padding-left: 0.5em;
