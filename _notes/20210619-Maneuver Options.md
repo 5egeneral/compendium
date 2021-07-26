@@ -1,7 +1,7 @@
 ---
 title: Expanded Maneuvers
 state: publish
-tags: [homebrew, combat, martial]
+tags: [homebrew, combat, martial, maneuver]
 author: badooga
 ---
 If you have access to maneuvers, the following maneuvers can be added to the list of options available to you. Maneuvers are made available by features like the Combat Superiority class feature, the Superior Technique fighting style, and the Martial Adept feat.
