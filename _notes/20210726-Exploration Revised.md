@@ -4,6 +4,7 @@ state: publish
 tags: [homebrew, exploration, rule]
 toc: true
 author: badooga
+compacttoc: true
 ---
 
 This document presents an alternative system for exploration that replaces the existing rules in the *Dungeon Master's Guide*.
