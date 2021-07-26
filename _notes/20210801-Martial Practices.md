@@ -41,11 +41,13 @@ The martial practices below are presented in alphabetical order.
 #### Beast Tamer
 *Your hands and voice soothe a beast so that it will treat you as a friend.*
 ___
+
 - **Key Proficiency:** Animal Handling
 - **Activation Time:** 5 minutes
 - **Component Cost:** 1 hit die
 - **Duration:** Varies
 ___
+
 You tame a nonhostile beast within 10 feet of you. If the beast is hostile, the DM may let you tame it with a successful ability check against a DC of their choice. When tamed, the beast is charmed by you for a number of hours equal to your character level. If you or one of your companions harms the beast, the condition ends.
 
 While the beast is charmed, the beast is a willing mount for you and your companions. Additionally, through sounds and gestures, you and the beast can communicate simple ideas with each other, such as emotions, simple requests, and warnings of nearby danger.
@@ -53,31 +55,37 @@ While the beast is charmed, the beast is a willing mount for you and your compan
 #### Decipher Script
 *You might not know the language, but with some time and effort, you can decipher the meaning of any writing.*
 ___
+
 - **Key Proficiency:** History or Investigation
 - **Activation Time:** 10 minutes
 - **Component Cost:** 1 hit die
 - **Duration:** Instantaneous
 ___
+
 You learn the meaning of any written text you study, even if you are not fluent in its language. You must examine the words for the entire time, after which you understand the gist of whatever the text says. You also make an Intelligence check, and if your result is 25 or higher, you can read the text as if you were fluent in the language. Each use of this martial practice allows you to examine about one page of writing or an equivalent amount of text.
 
 #### Fake Death
 *You slow your breathing and heartbeat so you appear to be dead.*
 ___
+
 - **Key Proficiency:** Athletics or Deception
 - **Activation Time:** 10 minutes
 - **Component Cost:** 1 hit die
 - **Duration:** 24 hours
 ___
+
 You enter a deep trance that slows your heartbeat and breathing to become almost imperceptible. While in this state, you appear unconscious or dead, but you are aware of your surroundings. You can emerge from the trance early as a bonus action. Make a Constitution or Charisma check; other creatures perceive you as dead unless they succeed on a Wisdom (Insight) or Wisdom (Medicine) check against a DC equal to your roll.
 
 #### Quick Aid
 *With a few words and a couple of shiny coins, you can acquire help almost anywhere at any time.*
 ___
+
 - **Key Proficiency:** Intimidation, Performance, or Persuasion
 - **Activation Time:** 1 minute
 - **Component Cost:** 10 gp + 1 hit die
 - **Duration:** 10 minutes
 ___
+
 While in a settlement with creatures that aren't hostile to you, you can secure the aid of a few creatures for a time. The number of creatures that aid you is equal to your character level. These creatures can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave you early if they are endangered or abused.
 
 When you use this practice, make a Charisma check. On a 15 or higher, the duration increases to 1 hour.
@@ -85,39 +93,47 @@ When you use this practice, make a Charisma check. On a 15 or higher, the durati
 #### Speech Without Words
 *No language barrier can keep you from communicating.*
 ___
+
 - **Key Proficiency:** Insight or Persuasion
 - **Activation Time:** 5 minutes
 - **Component Cost:** None
 - **Duration:** 10 minutes
 ___
+
 Through pantomime, you communicate with a nonhostile creature you can see, even if it does not speak your language. The creature must have an Intelligence score of 4 or higher. You can communicate simple ideas and concepts, such as figuring out where a monster went, where someone might find fresh water, if there's a safe place to camp, and so on. Conveying complex ideas might require one or more ability checks, at the DM's discretion.
 
 #### Temporary Fix
 *A few tools and a bit of time are all you need to make a device work again.*
 ___
+
 - **Key Proficiency:** Tinker's Tools
 - **Activation Time:** 10 minutes
 - **Component Cost:** 1 hit die
 - **Duration:** 24 hours
 ___
+
 You repair a single mundane object that can fit within a 10-foot cube. The object functions for the practice's duration. After that time, the object returns to its prior state.
 
 #### Uncanny Strength
 *You can dig deep within yourself to find the strength you need.*
 ___
+
 - **Key Proficiency:** Athletics
 - **Activation Time:** 5 minutes
 - **Component Cost:** 1 hit die
 - **Duration:** 10 minutes
 ___
+
 You call upon hidden reserves to gain a boost to your strength. For the duration, you as one size larger when determining your carrying capacity and the weight you can push, drag, or lift, and you gain a +5 bonus to all Strength checks.
 
 #### Warded Campsite
 *You arrange tripwires, traps, and other devices so that you and your allies will know when an intruder approaches your campsite.*
 ___
+
 - **Key Proficiency:** Thieves' Tools
 - **Activation Time:** 30 minutes
 - **Component Cost:** None
-- **Duration:** 8 hours
+- **Duration:** 8 hours  
 ___
+
 You ward an area no larger than 50 feet on a side. Whenever a creature enters the area, you and your allies within the area are awakened and cannot be surprised. You can designate any specific creatures that are able to move freely through the warded area without waking up sleeping allies.
