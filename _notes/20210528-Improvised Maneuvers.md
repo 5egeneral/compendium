@@ -1,7 +1,7 @@
 ---
 title: Improvised Manoeuvres
 state: publish
-tags: [homebrew, combat]
+tags: [homebrew, combat, martial, maneuver]
 ---
 
 Once per round, you can attempt to improvise a manoeuvre which you perform as part of an attack you make on your turn. Any manoeuvre which requires the target to make a saving throw and normally adds a superiority die to the damage roll can be improvised. You forgo the rolling of any superiority dice, if available, and your Improvised Manoeuvre save DC = 8 + your proficiency bonus.
