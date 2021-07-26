@@ -39,7 +39,7 @@ The most obvious benefit of being hidden is preventing other creatures from know
 
 ***Advantage on Attacks.*** In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack before you are seen (see “Being Detected” below).
 
-***Attack Protection.*** A creature from which you are hidden has disadvantage on attack rolls against you, whether it can hear but not see you or is merely guessing your location. If you aren’t in the location the creature targets, it automatically misses, but it usually only knows that the attack missed, not that it guessed incorrectly.
+***Attack Protection.*** A creature from which you are hidden has disadvantage on attack rolls against you, whether it can hear but not see you or is merely guessing your location. If you aren't in the location the creature targets, it automatically misses, but it usually only knows that the attack missed, not that it guessed incorrectly.
 
 ***Surprise.*** If you and your companions are hidden, you can gain surprise over unsuspecting foes that you initiate combat with. See Chapter 9 of the *Player's Handbook* (page 189) for the rules on being surprised.
 
