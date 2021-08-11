@@ -13,6 +13,7 @@ layout: stylesheet
 @import "/assets/css/toc_styling.css";
 @import "/assets/css/imagecaption_styling.css";
 @import "/assets/css/traitlist.css";
+@import "/assets/css/imagezoom.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
 html {
