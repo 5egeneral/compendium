@@ -26,8 +26,15 @@
 }
 @media screen and (max-width: 815px){
 
+  .box main ul.section-nav {
+    display: none;
+}
+}
+
+@media screen and (max-width: 815px){
+
   main ul.section-nav {
-    margin-right: -32%;
+    margin-right: -34%;
     width: 29%;
 }
 }
