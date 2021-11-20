@@ -106,6 +106,34 @@ As a bonus action, you can swear an oath to your deity to bring down a creature 
 #### Channel Divinity: Divine Guidance
 As a reaction while holding or presenting the holy symbol of your deity, you can use your Channel Divinity to give an ally advantage on an attack roll, ability check, or saving throw they make during the current turn.
 
+### Fighting Style
+At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
+
+#### Defense
+
+While you are wearing armor, you gain a +1 bonus to AC.
+
+#### Dueling
+
+When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
+#### Great Weapon Fighting
+
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+
+#### Two-Weapon Fighting
+
+When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+> **Additional Fighting Styles.**
+> If the DM permits use of *Tasha's Cauldron of Everything*, the following fighting styles are also available to you:
+> #### Divine Warrior
+> You learn two cantrips of your choice from the cleric spell list, which count as avenger spells for you. Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
+> #### Blind Fighting
+> You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+> #### Interception
+> When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+
 ### Temple Sect
 When you reach 3rd level, [make a choice of religious sect to be a part of](#avenger-sectss). Many avengers are already part of a sect while training as an agent of their deity, but some avengers have decided to split from their associated temple, working solely on behalf of their deity. Regardless, your choice grants you features at 3rd level and again at 7th level, 11th level, and 18th level.
 
@@ -150,6 +178,10 @@ At 11th level, you gain a feature from your [Temple Sect](#avenger-sects).
 ### Eyes of the Gods
 
 Starting at 14th level, your connection to providence grants you sight that allows you to hunt the enemies of your deity more effectively. As an action, you can gain truesight for up to 120 feet until the end of your next turn.
+
+### Improved Enmity
+
+At 15th level, the wrath of your deity spreads to all those who would ally with the source of their enmity. Your Oath of Enmity feature now applies to all enemy creatures within 10 feet of the target of the oath, not just the chosen creature itself.
 
 ### Temple Sect Feature
 
