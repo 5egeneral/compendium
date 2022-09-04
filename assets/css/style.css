@@ -192,6 +192,7 @@ blockquote:before {
 
 blockquote {
     padding: 10px;
+	padding-top: 
 }
 
 cite {
@@ -203,6 +204,8 @@ blockquote p {
     font-family: inherit;
     font-size: inherit;
     padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
     background-color: #EEE8D5;
     border-radius: 5px;
 }
