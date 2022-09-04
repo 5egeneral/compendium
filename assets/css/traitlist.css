@@ -14,6 +14,11 @@ h2[id*="tier"] ~ blockquote {
 	grid-gap: 4px;
 }
 
+h2[id*="tier"] ~ blockquote + blockquote {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
 h2[id*="tier"] ~ blockquote > blockquote {
 	margin-left: 0;
 	margin-top: 0px;
