@@ -205,6 +205,8 @@ blockquote p {
     font-family: inherit;
     font-size: inherit;
     padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 	margin-top: 10px;
 	margin-bottom: 10px;
     background-color: #EEE8D5;
