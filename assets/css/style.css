@@ -192,7 +192,8 @@ blockquote:before {
 
 blockquote {
     padding: 10px;
-	padding-top: 
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 cite {
