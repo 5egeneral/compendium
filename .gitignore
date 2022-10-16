@@ -6,3 +6,9 @@ vendor
 .idea
 .DS_Store
 .obsidian/workspace
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+.obsidian/hotkeys.json
