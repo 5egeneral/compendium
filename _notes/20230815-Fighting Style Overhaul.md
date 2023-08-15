@@ -3,6 +3,7 @@ title: Fighting Style Overhaul
 state: publish
 tags: [homebrew, combat, martial, rule]
 author: Devilpants
+toc: true
 ---
 ## What is This?
 
